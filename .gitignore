@@ -1,0 +1,8 @@
+
+# Ignore everything
+*
+
+# But not these files...
+!bank.ipynb
+!.gitignore
+!README.md
